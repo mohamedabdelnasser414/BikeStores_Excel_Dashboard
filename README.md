@@ -1,20 +1,20 @@
 # Excel BikeStores Sales Dashboard - README
 
-# Overview
+## Overview
 
 Welcome to the Excel BikeStores Sales Dashboard! This comprehensive and dynamic dashboard provides valuable insights into the sales activities and trends within the years 2016, 2017, and 2018. The dashboard is designed to present information in an organized and digestible format, enabling the executive team to make informed decisions based on sales data.
 
-# Data Source
+## Data Source
 
 The dataset used for this dashboard consists of 4723 rows and 12 columns, generated from an SQL database. The dataset serves as the foundation for the various charts and analyses presented in the dashboard.
 
-# Dashboard Features
+## Dashboard Features
 
 Pivot Tables and Dynamic Charts
 
 The dashboard harnesses the power of pivot tables to generate dynamic charts that adapt to your filtering choices. Pivot tables allow you to slice and dice the data according to your preferences, providing a versatile and interactive experience.
 
-# Key Metrics
+## Key Metrics
 
 	1.	Total Sales: Visualizes the overall sales trend across all years.
 	2.	Sales Per Month: Breaks down the sales figures by months for the years (2016, 2017, and 2018).
@@ -23,11 +23,11 @@ The dashboard harnesses the power of pivot tables to generate dynamic charts tha
 	5.	Revenue Per Band: Presents revenue performance in different bands.
 	6.	Top Customers and Sales Representatives: Showcases a list of top customers and sales representatives based on their performance.
 
-# Filtering Options
+## Filtering Options
 
 The dashboard’s interactivity shines through its filtering options. You can easily narrow down the displayed data by selecting specific years, states, and store names. This feature enables you to focus on the specific information you need at any given moment.
 
-# User Guide
+## User Guide
 
 	1.	Opening the Dashboard: To access the dashboard, open the Excel file provided.
 	2.	Navigating the Dashboard: Use the navigation tabs or buttons to explore different sections of the dashboard.
@@ -35,7 +35,7 @@ The dashboard’s interactivity shines through its filtering options. You can ea
 	4.	Filtering Data: Utilize the filtering options (year, state, store name) to narrow down the data displayed in the charts. This allows you to focus on specific aspects of the sales data.
 	5.	Understanding Insights: Refer to the charts and metrics to gain insights into sales trends, revenue distribution, and top-performing entities.
 
-# Conclusion
+## Conclusion
 
 The Excel BikeStores Sales Dashboard empowers the executive team with the information they need to assess sales activities, identify trends, and make strategic decisions. Enjoy exploring the data and gaining valuable insights!
 
